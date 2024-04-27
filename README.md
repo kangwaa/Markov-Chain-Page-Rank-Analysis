@@ -1,6 +1,6 @@
 # Markov-Chain-Page-Rank-Analysis
  
-This project aims to enhance my knowledge of Markov Chains and the Page Rank taught in Module 11 in CSE6040. An Airline's transportation infrastructure can viewed in form of a graph or a network in which vertices are airports and edges are the direct-flight segments that connect them.
+This project aims to enhance my knowledge of Markov Chains and the Page Rank Algorithm taught in Module 11 in CSE6040. An Airline's transportation infrastructure can viewed in form of a graph or a network in which vertices are airports and edges are the direct-flight segments that connect them.
 
 In this analysis I aim to answer to answer the following questions for an airline business utilizing Markov Chains or in other text's the famous PageRank Algorithm by Google:
 
